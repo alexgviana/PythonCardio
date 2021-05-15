@@ -13,3 +13,7 @@ Bonus: Determinate if triangle is isosceles, scalene or equilateral
 
 Rocks, Papers or Scissors game
 Bonus: The winner will be the winner of 3 times
+
+## Challenge 3: Convertion System
+
+The user can convert miles to kilometer or kilometers to miles 
